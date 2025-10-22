@@ -35,7 +35,7 @@ It uses public structured data (JSON-LD) and internal JavaScript objects (`plans
     {"id":"200","label":"200 استارز","price":440000,"currency":"IRR"}
   ]
 }
----
+```
 
 ##⚙️ How It Works
 
