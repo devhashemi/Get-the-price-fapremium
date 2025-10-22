@@ -36,8 +36,8 @@ It uses public structured data (JSON-LD) and internal JavaScript objects (`plans
   ]
 }
 ```
-
-##⚙️ How It Works
+---
+## ⚙️ How It Works
 
 Connects to https://fapremium.ir/store/
 
@@ -50,3 +50,11 @@ Cleans and converts IRR (ریال) prices into consistent numeric format
 Caches results for 10 minutes to avoid excess load
 
 Returns a structured JSON response ready for bots or dashboards
+---
+## 💡 Quick Setup
+```bash
+git clone https://github.com/YOURNAME/Get-the-price-fapremium.git
+cd Get-the-price-fapremium
+composer dump-autoload -o
+```
+---
