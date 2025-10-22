@@ -1,0 +1,11 @@
+{
+  "name": "fapremium/scrape-prices",
+  "description": "Fetch prices from https://fapremium.ir/store/ and expose as JSON",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "FaScrape\\": "src/"
+    }
+  }
+}
