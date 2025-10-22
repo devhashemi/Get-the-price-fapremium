@@ -53,7 +53,7 @@ Returns a structured JSON response ready for bots or dashboards
 ---
 ## 💡 Quick Setup
 ```bash
-git clone https://github.com/YOURNAME/Get-the-price-fapremium.git
+git clone https://github.com/devhashemi/Get-the-price-fapremium.git
 cd Get-the-price-fapremium
 composer dump-autoload -o
 ```
